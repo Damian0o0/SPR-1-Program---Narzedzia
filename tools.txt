@@ -1,0 +1,9 @@
+Bosch;340;Elektr
+NoName; 220;Mech
+Stihl;430;Pneum
+Wakus;470;Mech
+Bosch;320;Pneum
+Stihl;290;Elektr;
+NoName;210;Mech
+Bosch;330;Mech
+Wakus;440;Pneum
